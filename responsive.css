@@ -62,13 +62,12 @@
     }
     
     .heading sup {
-        font-size: 20px
+        font-size: 20px;
     }
     
     .konten {
         text-align: center;
         width: 100%;
-        margin: auto;
         font-size: 10px;
     }
     .konten2 img {
