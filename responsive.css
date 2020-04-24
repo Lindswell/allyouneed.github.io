@@ -37,7 +37,13 @@
   margin-top: 7px;
   margin-left: 0;
   } 
+    .top-wrapper h1 {
+        font-size: 30px;
+    }
     
+    .lower-text h2 {
+        font-size: 15px;
+    }
     .header-right {
         display: none;
     }
@@ -46,10 +52,24 @@
         margin: auto;
         text-align: center;
     }
+    
+    .heading p {
+        font-size: 15px
+    }
+    
+    .heading h2 {
+        font-size: 25px;
+    }
+    
+    .heading sup {
+        font-size: 20px
+    }
+    
     .konten {
         text-align: center;
         width: 100%;
         margin: auto;
+        font-size: 10px;
     }
     .konten2 img {
         display: none;
