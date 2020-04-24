@@ -69,6 +69,7 @@
         text-align: center;
         width: 100%;
         font-size: 10px;
+        margin: 0 auto;
     }
     .konten2 img {
         display: none;
