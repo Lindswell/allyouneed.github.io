@@ -67,7 +67,8 @@
     
     .konten {
         text-align: center;
-        width: 30%;
+        width: 100%;
+        margin: auto;
         font-size: 10px;
     }
     .konten2 img {
